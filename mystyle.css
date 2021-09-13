@@ -1,0 +1,66 @@
+body{
+color:white;
+text-align: justify;
+background-image: url('eduback.jpg');
+background-repeat: none;
+background-size: initial; 
+
+}
+textarea{
+    text-align: justify;
+}
+label{
+    color: orange;
+    text-shadow: 2px 1px 3px tomato;
+}
+input{
+    color:white;
+
+}
+
+legend{
+    color:white;
+
+}
+ div.first{
+    border: 5px solid white;
+    border-radius: 8px;
+    background-color: teal;
+    background-size: 20px;
+}
+div.second{
+    border: 2px solid wheat;
+    border-radius: 8px;
+    background-color: teal;
+}
+div.third{
+    border: 2px solid wheat;
+    border-radius: 8px;
+    background-color:teal;
+
+}
+div.four{
+    border: 2px solid white;
+    border-radius: 8px;
+    background-color: teal;
+
+
+}
+div.five{
+    border: 2px solid white;
+    border-radius: 8px;
+    background-color: teal;
+
+}
+
+div.end{
+        border: 5px solid white ;
+        border-radius: 8px;
+        background-color: teal;
+    
+    }
+h3{
+    color: orange;
+    text-shadow: 2px 1px 3px tomato;
+}
+
